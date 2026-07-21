@@ -77,6 +77,12 @@ edit.blade.php – edit contact form  <br>
 21. "SHOW DATABASES;" "USE contact_list;" "SELECT * FROM contacts;" "INSERT INTO contacts (name, email, phone, created_at, updated_at) 
 VALUES ('Behzad', 'Behzad@example.com', '123-4567', NOW(), NOW());"
 22. After refreshing the browser the database will be updated.
+23. screen shot of the application running:
+<img width="1172" height="420" alt="GUI" src="https://github.com/user-attachments/assets/5d98647b-5e6f-4875-aba1-878b5ab10ea8" />
+ 
+24. screen shot of mysql commnd line client
+<img width="798" height="236" alt="sql" src="https://github.com/user-attachments/assets/bf707ee3-1b11-478a-a595-f9bbd8f85878" />
+
 
 
 
