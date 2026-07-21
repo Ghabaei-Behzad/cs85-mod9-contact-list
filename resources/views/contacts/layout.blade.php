@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
+
     <meta charset="UTF-8">
     <title>Contact List App</title>
     <script src="https://tailwindcss.com"></script>
