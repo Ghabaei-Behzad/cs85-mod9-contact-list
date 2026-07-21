@@ -72,7 +72,7 @@ create.blade.php – add contact form  <br>
 edit.blade.php – edit contact form  <br>
 17. Run the application "php artisan serve"
 18. Navigate to http://127/0/0/1:8000/contacts
-19. You may have to additional run commands: "npm install" "npm run dev"
+19. Run commands: "npm install" "npm run dev"
 20. To see newly created databases open MYSQL Command Line Client, "enter same password"
 21. "SHOW DATABASES;" "USE contact_list;" "SELECT * FROM contacts;" "INSERT INTO contacts (name, email, phone, created_at, updated_at) 
 VALUES ('Behzad', 'Behzad@example.com', '123-4567', NOW(), NOW());"
