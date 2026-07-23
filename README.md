@@ -13,7 +13,7 @@ Instructor Seno  <br>
 ### Instructions:
 1. When downloading MYSQL Community, set a root password.
 2. Open Command Prompt > cd Herd
-3. laravel new contact-list
+3. laravel new contact-list <br>
    Would you like to update?No <br>
    Which starter kit?None <br>
    Which testing framework?Pest <br>
